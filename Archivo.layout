@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="menu.c" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2397" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="28" />
+			<Collapse line="48" />
+			<Collapse line="71" />
+			<Collapse line="100" />
+		</Folding>
+	</File>
+	<File name="cadena.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="536" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="archivo.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="193" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+		</Folding>
+	</File>
+	<File name="archivo.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="890" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="utilitarios.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="824" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="17" />
+			<Collapse line="29" />
+			<Collapse line="45" />
+		</Folding>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12983" topLine="406" />
+		</Cursor>
+		<Folding>
+			<Collapse line="430" />
+			<Collapse line="438" />
+			<Collapse line="446" />
+			<Collapse line="464" />
+			<Collapse line="523" />
+			<Collapse line="584" />
+			<Collapse line="625" />
+			<Collapse line="676" />
+		</Folding>
+	</File>
+	<File name="cadena.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="324" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="33" />
+			<Collapse line="51" />
+			<Collapse line="62" />
+			<Collapse line="104" />
+		</Folding>
+	</File>
+	<File name="persona.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1428" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="utilitarios.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="155" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="609" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="main.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="898" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="persona.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14609" topLine="16" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="107" />
+			<Collapse line="211" />
+			<Collapse line="514" />
+			<Collapse line="562" />
+			<Collapse line="595" />
+			<Collapse line="657" />
+			<Collapse line="676" />
+			<Collapse line="693" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1651803034 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\archivo\main.c
+	"main.h"
+
+1651798129 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\archivo\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	"utilitarios.h"
+
+1651795945 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\archivo\utilitarios.h
+	<stdlib.h>
+	"cadena.h"
+
+1651798129 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\archivo\archivo.c
+	"archivo.h"
+
+1651799110 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\archivo\persona.c
+	"persona.h"
+
+1651798946 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\archivo\persona.h
+	<stdlib.h>
+	<stdio.h>
+	"cadena.h"
+	"utilitarios.h"
+
+1651781804 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\archivo\cadena.h
+	<stdlib.h>
+
+1651781793 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\archivo\cadena.c
+	"cadena.h"
+
+1651801707 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\archivo\main.h
+	"archivo.h"
+	"persona.h"
+	"menu.h"
+
+1651790833 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\archivo\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1651790856 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\archivo\menu.c
+	"menu.h"
+
+1651762604 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\archivo\utilitarios.c
+	"utilitarios.h"
+
