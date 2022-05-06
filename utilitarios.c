@@ -19,12 +19,17 @@ void *buscar_menor (const void *d1, size_t ce, size_t tam, Cmp cmp)
     void *elMenor = (void *)d1;
     int i;
 
+    if (ce>0)
+        d1+=tam;
+
     for (i=0; i<ce-1 ; i++, d1+=tam)
             if (cmp( d1, elMenor)  < 0)
                 elMenor=(void *)d1;
 
     return elMenor;
 }
+
+
 
 void ordenar_burbujeo (void *d1, size_t ce, size_t tam, Cmp cmp)
 {
@@ -53,6 +58,7 @@ void ordenar_seleccion (void *d1, size_t ce, size_t tam, Cmp cmp)
         /// En el primer paso ce=10, i=1 y el tam que
         /// estoy pasando es de 9, cuando deberia ser 10
         elMenor= buscar_menor(d1,ce+1-i,tam,cmp);
-        intercambio(d1,elMenor,tam);
+        if (elMenor != d1)
+            intercambio(d1,elMenor,tam);
     }
 }
